@@ -1,0 +1,4 @@
+# Skip packaging for ST download
+/.git* export-ignore
+/.github/** export-ignore
+/demo/** export-ignore
